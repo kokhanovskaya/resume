@@ -1,20 +1,20 @@
-# 👩‍💻 Анастасия Кохановская
+#  Анастасия Кохановская
 
-📍 Екатеринбург, Россия  
-📧 **Email:** [kokhanovskaya_a@mail.ru](mailto:kokhanovskaya_a@mail.ru)  
-💬 **Telegram:** [@kohanana](https://t.me/kohanana)  
-💻 **GitHub:** [github.com/kokhanovskaya](https://github.com/kokhanovskaya)
+ Екатеринбург, Россия  
+ **Email:** [kokhanovskaya_a@mail.ru](mailto:kokhanovskaya_a@mail.ru)  
+ **Telegram:** [@kohanana](https://t.me/kohanana)  
+**GitHub:** [github.com/kokhanovskaya](https://github.com/kokhanovskaya)
 
 ---
 
-## 🎯 Цель
+##  Цель
 
 Хочу пройти стажировку **Frontend Developer**.  
 Развиваюсь во фронтенде, изучаю новые технологии и хочу работать в команде, создавать современные интерфейсы и использовать  инструменты разработки.
 
 ---
 
-## 🛠️ Навыки
+##  Навыки
 
 **Frontend:** HTML, CSS, JavaScript, React, Redux  
 **Инструменты:** Git, VS Code, Figma  
@@ -26,18 +26,18 @@
 
 | Проект                     | Описание                                                                                                                                        | Технологии            | Ссылки                                                               |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------- |
-| 🎨 **Color Converter**     | Приложение-конвертер цвета: ввод HEX — мгновенное преобразование в RGB. Работа с формами, состоянием и обработчиками событий в React.           | React, useState, CSS  | [GitHub](https://github.com/kokhanovskaya/changeColor_forms)         |
-| 🔍 **React Filters**       | Интерфейс с фильтрацией данных по категориям. Реализация динамических фильтров, работа с состоянием и событиями.                                | React, Hooks, CSS     | [GitHub](https://github.com/kokhanovskaya/filter__React)             |
-| 🧩 **Extensions Page**     | Разработала интерактивную страницу с карточками, где каждая карточка имеет кнопки Remove (удаление) и Check (активация/деактивация). | React, CSS, useState  | [GitHub](https://github.com/kokhanovskaya/extensions)                |
-| 🐾 **My Shelter**          | Многостраничный адаптивный сайт приюта животных: слайдер, попап, бургер-меню. Верстка по макету с вниманием к деталям и адаптиву.               | HTML, CSS, JavaScript | [GitHub](https://github.com/kokhanovskaya/myShelter)                 |
-| 🎧 **Медиапроигрыватель**  | Простой аудиоплеер с контролем воспроизведения. Работа с DOM, событиями и элементом `<audio>`.                                                  | JavaScript, HTML5     | [GitHub](https://github.com/kokhanovskaya/js30-1.2-audio-player.git) |
-| 🌐 **Image Gallery (API)** | Мини-приложение для загрузки изображений с Unsplash API. Реализованы запросы, отображение и обработка ошибок.                                   | JavaScript, Fetch API | [GitHub](https://github.com/kokhanovskaya/image-gallery.git)         |
+|  **Color Converter**     | Приложение-конвертер цвета: ввод HEX — мгновенное преобразование в RGB. Работа с формами, состоянием и обработчиками событий в React.           | React, useState, CSS  | [GitHub](https://github.com/kokhanovskaya/changeColor_forms)         |
+|  **React Filters**       | Интерфейс с фильтрацией данных по категориям. Реализация динамических фильтров, работа с состоянием и событиями.                                | React, Hooks, CSS     | [GitHub](https://github.com/kokhanovskaya/filter__React)             |
+|  **Extensions Page**     | Разработала интерактивную страницу с карточками, где каждая карточка имеет кнопки Remove (удаление) и Check (активация/деактивация). | React, CSS, useState  | [GitHub](https://github.com/kokhanovskaya/extensions)                |
+|  **My Shelter**          | Многостраничный адаптивный сайт приюта животных: слайдер, попап, бургер-меню. Верстка по макету с вниманием к деталям и адаптиву.               | HTML, CSS, JavaScript | [GitHub](https://github.com/kokhanovskaya/myShelter)                 |
+|  **Медиапроигрыватель**  | Простой аудиоплеер с контролем воспроизведения. Работа с DOM, событиями и элементом `<audio>`.                                                  | JavaScript, HTML5     | [GitHub](https://github.com/kokhanovskaya/js30-1.2-audio-player.git) |
+|  **Image Gallery (API)** | Мини-приложение для загрузки изображений с Unsplash API. Реализованы запросы, отображение и обработка ошибок.                                   | JavaScript, Fetch API | [GitHub](https://github.com/kokhanovskaya/image-gallery.git)         |
 
 
 
 ---
 
-## 👩‍💼  📂 Обучение и проекты
+##   📂 Обучение и проекты
 
 | Курс / Платформа | Что изучила / реализовала | Технологии |
 |-----------------|--------------------------|------------|
@@ -45,20 +45,20 @@
 | **RS School: HTML, CSS, JS** | Мини-проекты с интерактивными элементами, базовая работа с JS | HTML, CSS, JS |
 | **Netology: React** | Проекты на React с компонентами | React, Redux, JS, CSS |
 
-> 🔧 Проекты всегда выкладываю на GitHub.
+>  Работы всегда выкладываю на GitHub.
 
 ---
 
 ---
 
-## 📚 Сейчас изучаю
+##  Сейчас изучаю
 
 - React Hooks и Redux
 - TypeScript (базовый уровень)
 
 ---
 
-## 💡 О себе
+##  О себе
 
 - Люблю учиться новому и улучшать свои навыки
 - Хочу развиваться как фронтенд-разработчик
