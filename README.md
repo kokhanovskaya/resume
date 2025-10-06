@@ -24,13 +24,14 @@
 
 ## 📂 Проекты
 
-| Проект                     | Описание                                                                                                                              | Технологии            | Ссылки                                                               |
-| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------- |
-| 🎨 **Color Converter**     | Приложение-конвертер цвета: ввод HEX — мгновенное преобразование в RGB. Работа с формами, состоянием и обработчиками событий в React. | React, useState, CSS  | [GitHub](https://github.com/kokhanovskaya/changeColor_forms)         |
-| 🔍 **React Filters**       | Интерфейс с фильтрацией данных по категориям. Реализация динамических фильтров, работа с состоянием и событиями.                      | React, Hooks, CSS     | [GitHub](https://github.com/kokhanovskaya/filter__React)             |
-| 🐾 **My Shelter**          | Многостраничный адаптивный сайт приюта животных: слайдер, попап, бургер-меню. Верстка по макету с вниманием к деталям и адаптиву.     | HTML, CSS, JavaScript | [GitHub](https://github.com/kokhanovskaya/myShelter)                 |
-| 🎧 **Медиапроигрыватель**  | Простой аудиоплеер с контролем воспроизведения. Работа с DOM, событиями и элементом `<audio>`.                                        | JavaScript, HTML5     | [GitHub](https://github.com/kokhanovskaya/js30-1.2-audio-player.git) |
-| 🌐 **Image Gallery (API)** | Мини-приложение для загрузки изображений с Unsplash API. Реализованы запросы, отображение и обработка ошибок.                         | JavaScript, Fetch API | [GitHub](https://github.com/kokhanovskaya/image-gallery.git)         |
+| Проект                     | Описание                                                                                                                                        | Технологии            | Ссылки                                                               |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------------------------------- |
+| 🎨 **Color Converter**     | Приложение-конвертер цвета: ввод HEX — мгновенное преобразование в RGB. Работа с формами, состоянием и обработчиками событий в React.           | React, useState, CSS  | [GitHub](https://github.com/kokhanovskaya/changeColor_forms)         |
+| 🔍 **React Filters**       | Интерфейс с фильтрацией данных по категориям. Реализация динамических фильтров, работа с состоянием и событиями.                                | React, Hooks, CSS     | [GitHub](https://github.com/kokhanovskaya/filter__React)             |
+| 🧩 **Extensions Page**     | Разработала интерактивную страницу с карточками, где каждая карточка имеет кнопки Remove (удаление) и Check (активация/деактивация). | React, CSS, useState  | [GitHub](https://github.com/kokhanovskaya/extensions)                |
+| 🐾 **My Shelter**          | Многостраничный адаптивный сайт приюта животных: слайдер, попап, бургер-меню. Верстка по макету с вниманием к деталям и адаптиву.               | HTML, CSS, JavaScript | [GitHub](https://github.com/kokhanovskaya/myShelter)                 |
+| 🎧 **Медиапроигрыватель**  | Простой аудиоплеер с контролем воспроизведения. Работа с DOM, событиями и элементом `<audio>`.                                                  | JavaScript, HTML5     | [GitHub](https://github.com/kokhanovskaya/js30-1.2-audio-player.git) |
+| 🌐 **Image Gallery (API)** | Мини-приложение для загрузки изображений с Unsplash API. Реализованы запросы, отображение и обработка ошибок.                                   | JavaScript, Fetch API | [GitHub](https://github.com/kokhanovskaya/image-gallery.git)         |
 
 
 
