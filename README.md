@@ -16,7 +16,7 @@
 
 ##  Навыки
 
-**Frontend:** HTML, CSS, JavaScript, React, Redux  
+**Frontend:** HTML, CSS, JavaScript, React  
 **Инструменты:** Git, VS Code, Figma  
 **Дополнительно:** базовый TypeScript, адаптивная вёрстка, работа с API
 
